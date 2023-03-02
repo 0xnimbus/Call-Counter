@@ -1,0 +1,25 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.labelName {
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.mainDiv{
+ text-align: center;
+}
+
+.btn{
+    background-color: rgb(120, 120, 246);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.btn:hover{
+    background-color: white;
+    cursor: pointer;
+}
